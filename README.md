@@ -1,5 +1,5 @@
 # Transfer-from-HSI-to-NIR
-This directory contains the code for paper "Transfer learning strategy for plastic pollution detection in soil: Calibration transfer from high-throughput HSI system to NIR sensor" published in: Chemosphere.
+This directory contains the code for paper "Transfer learning strategy for plastic pollution detection in soil: Calibration transfer from high-throughput HSI system to NIR sensor" published in: Chemosphere. If you have any problem, please contact me (stzhao@zju.edu.cn).
 # Requirements
 All codes are written using Matlab2020a.
 # Codes
