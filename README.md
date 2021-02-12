@@ -1,7 +1,7 @@
 # Transfer-from-HSI-to-NIR
 This directory contains the code for paper "Transfer learning strategy for plastic pollution detection in soil: Calibration transfer from high-throughput HSI system to NIR sensor" published in: Chemosphere.
 # Requirements
-all codes is written using Matlab2020a.
+All codes are written using Matlab2020a.
 # Codes
 'libsvm-3.1-[FarutoUltimate3.1Mcode]' and 'libsvm-3.24' are toolboxes for SVM. They should be added in the running path firstly.
 'SVM', 'DS_SVM', 'Repfile_SVM', 'EasyTL_SIX', 'DS_EasyTL' and 'Repfile_EasyTL' are the main codes for the paper, which construct models and output results.
